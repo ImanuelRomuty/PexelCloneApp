@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pexels Clone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_name">Imanuel Agung Praja Romuty</string>
+    <string name="profile_email">romuty16@gmail.com</string>
+    <string name="profile_description">Seorang manusia dengan hobi berburu hal yang berbau gratisan dan memilik kekurangan yaitu pesimis, tetapi dengan adanya kekurangan tersebut memunculkan rasa ingin belajar yang lebih dan haus akan ilmu.</string>
+    <string name="profile_birthday">16 Juni 2000</string>
+</resources>
